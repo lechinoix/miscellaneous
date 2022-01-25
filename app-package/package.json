@@ -9,7 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "child-package": "file:../lib-package",
-    "requireindex": "^1.2.0"
+    "child-package": "file:../lib-package"
   }
 }
